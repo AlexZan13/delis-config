@@ -1,0 +1,3 @@
+dadata:
+  url: "https://suggestions.dadata.ru/suggestions/api/4_1/rs/findById/party"
+  token: "0793b6f9d22601ff343f10f8203615d54f811d9c"
